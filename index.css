@@ -1,0 +1,33 @@
+.card-bodyy{
+    background-color: #ff5500;
+    height: 500px;
+   
+   
+}
+.card-bodyy img{
+   position: relative;
+   top: 50px;
+}
+.pricing{
+background-color: rgb(33,33,33);
+height: 800px;
+}
+.container p{
+    color: rgb(252, 252, 252);
+   position: relative;
+}
+.container h1{
+    color: rgb(252, 252, 252);
+}
+.container h2{
+color: white;
+}
+.price{
+    color: white;
+    margin-top: 200px;
+}
+.container h5{
+    color: white;
+    }
+
+
